@@ -1,4 +1,4 @@
-<img width="718" alt="Screenshot 2023-12-11 145220" src="https://github.com/muhamadfajarr-hub/praktikumML/assets/143522942/ca8e6ade-8974-451a-9010-126e96977d12"># praktikumML
+# praktikumML
 Splitting Dataset : Training = 70%, Validation = 20%, Testing = 10%
 Preprocessing dan Modelling Preprocessing Model : rescale=1./255, validation_split=0.5, shear_range=0.2, zoom_range=0.2, rotation_range=20, horizontal_flip=True
 Modelling Model mobilenetv2 dengan epoch 5
